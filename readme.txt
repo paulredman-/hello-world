@@ -5,3 +5,4 @@ Another change on the branch.
 Yet another change on the branch.
 
 New feature for develop_branch
+New feature2 for develop_branch
